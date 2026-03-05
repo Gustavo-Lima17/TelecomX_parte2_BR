@@ -1,5 +1,5 @@
 # TelecomX_parte2_BR
-
+Este modelo preditivo de evasão de clientes (Churn) foi criado para cumprir um Challenge da Alura, indicado aos alunos que estão participando do programa ONE (Oracle Next Education) - Turma 9 (G9). O desafio foi desenvolvido para testar e praticar os conhecimentos adquiridos durante a trilha de Data Science com Python. Este projeto em específico testa habilidades em análise exploratória de dados (EDA), tratamento de bases, balanceamento de classes (SMOTE), treinamento e avaliação de modelos de Machine Learning (como Regressão Logística e Random Forest), além de traduzir métricas matemáticas em estratégias de negócios.
 # 📄 Relatório
 
 ## 1. O Desafio e a Solução Proposta
